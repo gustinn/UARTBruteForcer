@@ -1,6 +1,11 @@
 env/
+venv/
 .idea/
 *.pyc
 log_*.txt
 wordlist.txt
 rockyou*.txt
+# pickle files
+*.p
+# wordlists directory
+lists/
